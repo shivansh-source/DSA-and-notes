@@ -34,5 +34,9 @@ Track daily learning and problem-solving activity here. One entry per day keeps 
 - **Time spent:** 45 minutes
 
 ---
-
+### 2026-05-06
+- **DSA:** multi array add up 
+- **Notes:** HashMap and recursion 
+- **Time spent:** 35 minutes
+```
 *Add your entry for today below this line.*
