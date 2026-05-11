@@ -44,4 +44,9 @@ Track daily learning and problem-solving activity here. One entry per day keeps 
 - **Notes:** work on urunc issue 
 - **Time spent:** 35 minutes
 
+### 2026-05-12
+- **DSA:** complete hashing 
+- **Notes:** working on ocm issue
+- **Time spent:** 35 minutes
+
   ```
