@@ -49,4 +49,9 @@ Track daily learning and problem-solving activity here. One entry per day keeps 
 - **Notes:** working on ocm issue
 - **Time spent:** 35 minutes
 
+
+### 2026-05-13
+- **DSA:** question speacial question 
+- **Notes:** all ci are working in ocm 1 is failing got review 
+- **Time spent:** 1he 23 minutes
   ```
