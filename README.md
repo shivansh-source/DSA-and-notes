@@ -101,9 +101,6 @@ Daily progress is tracked in [`daily-log.md`](daily-log.md).
 |------|---------------|
 | 2026-05-05 | Set up repository structure, added first DSA problems and notes |
 
----
-
-## 💡 Motivation
 
 > "You don't need to be great to start, but you need to start to be great."
 
