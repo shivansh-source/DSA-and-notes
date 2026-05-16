@@ -59,4 +59,7 @@ Track daily learning and problem-solving activity here. One entry per day keeps 
 - **DSA:** question speacial question 
 - **Notes:** started working on kgateway issue
 - **Time spent:** 1he 23 minutes
+
+- finally ocm issue is done and now can focus on kgateway issue and also at urunc issue first urunc the n kgateway
+  
   ```
