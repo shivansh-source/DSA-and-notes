@@ -8,7 +8,7 @@
 
 This repository serves two goals:
 
-1. **Daily DSA Practice** — Solving data structures and algorithm problems in Java, organized by topic.
+1. **Daily DSA Practice** — Solving data structures and algorithm problems in Java, organized by topic . 
 2. **Tech Notes** — Concise, beginner-friendly notes on Go, Databases, and DevOps — written in Feynman style (explain it simply).
 
 The aim is to show up every day, learn something, and document it.
