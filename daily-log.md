@@ -60,6 +60,11 @@ Track daily learning and problem-solving activity here. One entry per day keeps 
 - **Notes:** started working on kgateway issue
 - **Time spent:** 1he 23 minutes
 
+  ### 2026-05-20 
+- **DSA:** question speacial question 
+- **Notes:** merged ocm got new issue assigned 
+- **Time spent:** 1he 23 minutes
+
 - finally ocm issue is done and now can focus on kgateway issue and also at urunc issue first urunc the n kgateway
   
   ```
