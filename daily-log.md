@@ -70,4 +70,6 @@ Track daily learning and problem-solving activity here. One entry per day keeps 
 - 
 trying to merge some
 trying to get review
+working on one port in ocm
+
   ```
