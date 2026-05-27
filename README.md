@@ -105,3 +105,4 @@ Daily progress is tracked in [`daily-log.md`](daily-log.md).
 > "You don't need to be great to start, but you need to start to be great."
 
 This repo is about building a habit. One problem, one note, every day. Small steps compound into big results.
+have a look at daily log to have an idea of exactly what i am doing
