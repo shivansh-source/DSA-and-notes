@@ -71,5 +71,10 @@ Track daily learning and problem-solving activity here. One entry per day keeps 
 trying to merge some
 trying to get review
 working on one port in ocm
-
+### YYYY-MM-DD
+- sruniously routing and authnetication done 
+- ocm/api i made the issue to work on it as soon as it is done i will move forward 
+- waiting for the response from few different places
+- 
+  
   ```
