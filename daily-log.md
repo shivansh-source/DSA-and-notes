@@ -75,6 +75,8 @@ working on one port in ocm
 - sruniously routing and authnetication done 
 - ocm/api i made the issue to work on it as soon as it is done i will move forward 
 - waiting for the response from few different places
+- yeah didnt get into lfs will try summmer winter term
+- and for gsoc kgateway only
 - 
   
   ```
