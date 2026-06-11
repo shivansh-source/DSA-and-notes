@@ -77,6 +77,6 @@ working on one port in ocm
 - waiting for the response from few different places
 - yeah didnt get into lfs will try summmer winter term
 - and for gsoc kgateway only
-- 
+- trying to contribute but couldnt because of papers 
   
   ```
