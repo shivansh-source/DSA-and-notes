@@ -67,6 +67,8 @@ Track daily learning and problem-solving activity here. One entry per day keeps 
 
 - finally ocm issue is done and now can focus on kgateway issue and also at urunc issue first urunc the n kgateway
 - REALLY CLOSE TO FINISH TH ICLUDEOS
+- want it get regualt having little problem but lets see
+- was trying wezterm
 - 
 trying to merge some
 trying to get review
