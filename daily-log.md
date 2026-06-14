@@ -80,5 +80,5 @@ working on one port in ocm
 - yeah didnt get into lfs will try summmer winter term
 - and for gsoc kgateway only
 - trying to contribute but couldnt because of papers 
-  
+  JUST FInihsed the e2e test for kubernetes
   ```
