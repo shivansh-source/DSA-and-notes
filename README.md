@@ -1,4 +1,4 @@
-# DSA and Notes
+no# DSA and Notes
 
 > **Consistency over perfection.** — A personal repository for daily learning, DSA practice, and technical notes.
 
@@ -106,3 +106,4 @@ Daily progress is tracked in [`daily-log.md`](daily-log.md).
 
 This repo is about building a habit. One problem, one note, every day. Small steps compound into big results.
 have a look at daily log to have an idea of exactly what i am doing
+started working at capmob
