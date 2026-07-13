@@ -81,5 +81,7 @@ working on one port in ocm
 - and for gsoc kgateway only
 - trying to contribute but couldnt because of papers 
   JUST FInihsed the e2e test for kubernetes
-  registered for isro hackathon for the 6th of august 
+  registered for isro hackathon for the 6th of august
+  staredworking on urunc annd kgateway again
+  
   ```
