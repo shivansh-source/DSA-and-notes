@@ -81,7 +81,7 @@ Problems organized by topic. Each file:
 - Lists time and space complexity
 - Provides example input/output in comments
 
-See [`dsa-java/README.md`](dsa-java/README.md) for full details.
+See [`dsa-java/README.md`](dsa-java/README.md) for full details and more .
 
 ### 📓 Tech Notes (`notes/`)
 Markdown notes organized by topic:
