@@ -83,5 +83,6 @@ working on one port in ocm
   JUST FInihsed the e2e test for kubernetes
   registered for isro hackathon for the 6th of august
   staredworking on urunc annd kgateway again
+  writing a blong for open -everest 
   
   ```
