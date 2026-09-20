@@ -84,6 +84,8 @@ working on one port in ocm
   registered for isro hackathon for the 6th of august
   staredworking on urunc annd kgateway again
   writing a blong for open -everest 
-  trying to apply to other places where i can get internship
+  trying to apply to other places where i can get internshi
+  maknig a operator for openeverst
+  
   
   ```
