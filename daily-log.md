@@ -86,6 +86,7 @@ working on one port in ocm
   writing a blong for open -everest 
   trying to apply to other places where i can get internshi
   maknig a operator for openeverst
+    got the chance to do make the program
   
   
   ```
