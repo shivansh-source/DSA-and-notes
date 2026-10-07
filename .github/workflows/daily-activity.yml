@@ -40,4 +40,4 @@ jobs:
           LOG_DAY: ${{ github.event.inputs.day }}
           ACTIVITY_PAT: ${{ secrets.ACTIVITY_PAT }}   # optional, see README
           INCLUDE_PRIVATE: ${{ vars.INCLUDE_PRIVATE || '0' }}
-        run: ./scripts/daily_activity.sh
+        run: bash ./scripts/daily_activity.sh
