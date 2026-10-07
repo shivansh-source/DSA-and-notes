@@ -1,0 +1,43 @@
+name: Daily activity log
+
+on:
+  schedule:
+    - cron: "30 18 * * *"   # 00:00 IST, logs the day that just ended
+  workflow_dispatch:
+    inputs:
+      day:
+        description: "Day to (re)log, YYYY-MM-DD (default: yesterday IST)"
+        required: false
+
+permissions:
+  contents: write
+  issues: read
+  pull-requests: read
+
+concurrency:
+  group: daily-activity
+  cancel-in-progress: false
+
+jobs:
+  log:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure git identity
+        env:
+          GIT_NAME: ${{ vars.GIT_NAME || github.repository_owner }}
+          GIT_EMAIL: ${{ vars.GIT_EMAIL || format('{0}@users.noreply.github.com', github.repository_owner) }}
+        run: |
+          git config user.name  "$GIT_NAME"
+          git config user.email "$GIT_EMAIL"
+
+      - name: Build digest and commit
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LOG_DAY: ${{ github.event.inputs.day }}
+          ACTIVITY_PAT: ${{ secrets.ACTIVITY_PAT }}   # optional, see README
+          INCLUDE_PRIVATE: ${{ vars.INCLUDE_PRIVATE || '0' }}
+        run: ./scripts/daily_activity.sh
