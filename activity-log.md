@@ -41,3 +41,16 @@ Auto-generated daily digest of repo activity (days are IST, UTC+0530).
 - 📝 issue labeled openeverest/openeverest#3346: Instance validation failures set Phase=Failed with no Status.Message so no info on that for user
 - 📝 issue opened openeverest/openeverest#3346: Instance validation failures set Phase=Failed with no Status.Message so no info on that for user
 
+### 2026-10-09
+- no new activity in this repo; last change was `362bbc1 Run script via bash`
+
+#### Elsewhere on GitHub
+- Create on shivansh-source/provider-opensearch
+- 💬 @github-actions[bot] commented on openeverest/openeverest#3350: Assigned to @shivansh-source. Thanks for picking this up! A few things worth knowing: - Open your pull request with `Fixes #3350` in the des…
+- 💬 you commented on openeverest/openeverest#3350: /assign 
+- 💬 you commented on openeverest/openeverest#3350: Please dont put a pr on this this issue is still in discussion . maybe some changes in the approach .
+- 📝 PR opened openeverest/provider-opensearch#21: null
+- 📝 issue labeled openeverest/openeverest#3350: Add a provider compatibility gate mirroring compatibleHostVersions (plugins)
+- 📝 issue opened openeverest/openeverest#3350: Add a provider compatibility gate mirroring compatibleHostVersions (plugins)
+- 🔨 pushed 0 commit(s) to shivansh-source/provider-opensearch
+
