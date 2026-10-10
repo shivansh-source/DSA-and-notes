@@ -2,7 +2,7 @@ name: Daily activity log
 
 on:
   schedule:
-    - cron: "30 18 * * *"   # 00:00 IST, logs the day that just ended
+    - cron: "30 16 * * *" # 22:00 (10:00 PM) IST, logs the day at 10 PM
   workflow_dispatch:
     inputs:
       day:
