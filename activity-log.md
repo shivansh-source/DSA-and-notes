@@ -57,3 +57,10 @@ Auto-generated daily digest of repo activity (days are IST, UTC+0530).
 ### 2026-10-11
 - no new activity in this repo; last change was `5f15a78 Change cron schedule to log daily activity at 10 PM IST`
 
+### 2026-10-12
+- no new activity in this repo; last change was `5f15a78 Change cron schedule to log daily activity at 10 PM IST`
+
+#### Elsewhere on GitHub
+- 💬 @recharte commented on openeverest/openeverest#3346: Hey @shivansh-source, thanks for the report, and for pointing at the exact two blocks in `provider.go`. You were right that the error never …
+- 💬 @recharte commented on openeverest/openeverest#3350: Hi @shivansh-source, thanks for opening this. You're right that nothing stops someone from running a provider next to a core version it wasn…
+
