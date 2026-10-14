@@ -71,3 +71,9 @@ Auto-generated daily digest of repo activity (days are IST, UTC+0530).
 - 💬 @mikeshng commented on open-cluster-management-io/api#439: @payjain This looks good to me please proceed with the API change PR.
 - 💬 @payjain commented on open-cluster-management-io/api#439: > 7\. [@payjain](https://github.com/payjain) This looks good to me please proceed with the API change PR. Sure @mikeshng 
 
+### 2026-10-14
+- no new activity in this repo; last change was `5f15a78 Change cron schedule to log daily activity at 10 PM IST`
+
+#### Elsewhere on GitHub
+- 💬 @Rishet11 commented on OrchestratorInc/agent-orchestrator#5608: Fixed by #5391. Unix-only host race tests are excluded from Windows builds.
+
