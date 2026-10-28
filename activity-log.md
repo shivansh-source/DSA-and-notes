@@ -159,3 +159,10 @@ Auto-generated daily digest of repo activity (days are IST, UTC+0530).
 ### 2026-10-27
 - no new activity in this repo; last change was `5f15a78 Change cron schedule to log daily activity at 10 PM IST`
 
+### 2026-10-28
+- no new activity in this repo; last change was `5f15a78 Change cron schedule to log daily activity at 10 PM IST`
+
+#### Elsewhere on GitHub
+- 💬 @mcphersonwhite-axon commented on open-cluster-management-io/ocm#1246: We hit this on 1.3.1 with authType: grpc. On every gRPC-registered klusterlet, HubConnectionDegraded is stuck True: the reason is HubKubeCon…
+- 💬 @rokej commented on open-cluster-management-io/ocm#1246: /assign @mcphersonwhite-axon  Thank you
+
