@@ -230,3 +230,11 @@ Auto-generated daily digest of repo activity (days are IST, UTC+0530).
 ### 2026-11-05
 - no new activity in this repo; last change was `5f15a78 Change cron schedule to log daily activity at 10 PM IST`
 
+### 2026-11-06
+- no new activity in this repo; last change was `5f15a78 Change cron schedule to log daily activity at 10 PM IST`
+
+#### Elsewhere on GitHub
+- 💬 @spron-in commented on openeverest/provider-opensearch#18: Superseded by #26: version downgrades, major-version jumps, storage class changes and shrinking are rejected at admission (the provider's In…
+- 💬 @spron-in commented on openeverest/provider-opensearch#21: Closing: #1 is resolved upstream. `opensearch-operator:3.0.0` is published, and the default install works in CI and on a real cluster. Pinni…
+- 💬 you commented on FailproofAI/failproofai#633: Picking this up after talking with the maintainers at Hacktoberfest. Writing down the plan so it's on record before I start. A few things in…
+
