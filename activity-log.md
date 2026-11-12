@@ -259,3 +259,9 @@ Auto-generated daily digest of repo activity (days are IST, UTC+0530).
 ### 2026-11-11
 - no new activity in this repo; last change was `5f15a78 Change cron schedule to log daily activity at 10 PM IST`
 
+### 2026-11-12
+- no new activity in this repo; last change was `5f15a78 Change cron schedule to log daily activity at 10 PM IST`
+
+#### Elsewhere on GitHub
+- 💬 you commented on openeverest/provider-percona-xtradb-cluster#60: make sense .  should be same as mongoDB provider . 
+
