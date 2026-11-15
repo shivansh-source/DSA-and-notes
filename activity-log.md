@@ -271,3 +271,20 @@ Auto-generated daily digest of repo activity (days are IST, UTC+0530).
 ### 2026-11-14
 - no new activity in this repo; last change was `5f15a78 Change cron schedule to log daily activity at 10 PM IST`
 
+### 2026-11-15
+- no new activity in this repo; last change was `5f15a78 Change cron schedule to log daily activity at 10 PM IST`
+
+#### Elsewhere on GitHub
+- 💬 @Pranav-error commented on pgmoneta/pgmoneta#1383: @ecleon26 I offered this one to @shivansh-source first, so if they don't pick it up, it's yours. Meanwhile, two similar tests fail on main a…
+- 💬 @Pranav-error commented on pgmoneta/pgmoneta#1383: @shivansh-source you could take this one if you're interested. Note that the clang Debug jobs on main currently fail on different tests (`te…
+- 💬 @ecleon26 commented on pgmoneta/pgmoneta#1383: @Pranav-error this seems interesting, can i work on it if possible?
+- 💬 @jesperpedersen commented on pgmoneta/pgmoneta#1383: @shivansh-source Go for it !
+- 💬 you commented on pgmoneta/pgmoneta#1383: @Pranav-error on it thank you!
+- 💬 you commented on pgmoneta/pgmoneta#1601: @jesperpedersen PTAL 
+- 💬 you commented on pgmoneta/pgmoneta#1605: WIP
+- 📝 PR opened pgmoneta/pgmoneta#1601: null
+- 📝 PR opened pgmoneta/pgmoneta#1609: null
+- 📝 issue labeled pgmoneta/pgmoneta#1605: Restoring a replica backup with position "current" can fail: recovery ended before configured recovery target was reached
+- 📝 issue opened pgmoneta/pgmoneta#1605: Restoring a replica backup with position "current" can fail: recovery ended before configured recovery target was reached
+- 🔨 pushed 0 commit(s) to shivansh-source/pgmoneta
+
