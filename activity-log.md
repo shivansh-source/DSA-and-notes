@@ -309,3 +309,14 @@ Auto-generated daily digest of repo activity (days are IST, UTC+0530).
 - 📝 PR opened shivansh-source/demo-project1#4: null
 - 🔨 pushed 0 commit(s) to shivansh-source/demo-project1
 
+### 2026-11-18
+- no new activity in this repo; last change was `5f15a78 Change cron schedule to log daily activity at 10 PM IST`
+
+#### Elsewhere on GitHub
+- 💬 @jesperpedersen commented on pgmoneta/pgmoneta#1601: Please, rebase 
+- 💬 @jesperpedersen commented on pgmoneta/pgmoneta#1609: Please, rebase 
+- 📝 issue labeled openeverest/openeverest#3654: [CLI] Add everestctl backup-import commands
+- 📝 issue labeled openeverest/openeverest#3655: [CLI] Add commands to list, inspect and manage InstancePreset and ClusterInstancePreset
+- 📝 issue opened openeverest/openeverest#3654: [CLI] Add everestctl backup-import commands
+- 📝 issue opened openeverest/openeverest#3655: [CLI] Add commands to list, inspect and manage InstancePreset and ClusterInstancePreset
+
