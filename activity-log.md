@@ -320,3 +320,24 @@ Auto-generated daily digest of repo activity (days are IST, UTC+0530).
 - 📝 issue opened openeverest/openeverest#3654: [CLI] Add everestctl backup-import commands
 - 📝 issue opened openeverest/openeverest#3655: [CLI] Add commands to list, inspect and manage InstancePreset and ClusterInstancePreset
 
+### 2026-11-19
+- no new activity in this repo; last change was `5f15a78 Change cron schedule to log daily activity at 10 PM IST`
+
+#### Elsewhere on GitHub
+- Create on shivansh-source/pgmoneta
+- 💬 @JIturiDashami commented on openeverest/openeverest#2844: /assign
+- 💬 @JIturiDashami commented on openeverest/openeverest#2844: I want to work on this issue ..please can you assign me this issue!
+- 💬 @github-actions[bot] commented on openeverest/openeverest#2844: Assigned to @JIturiDashami. Thanks for picking this up! A few things worth knowing: - Open your pull request with `Fixes #2844` in the descr…
+- 💬 @jesperpedersen commented on pgmoneta/pgmoneta#1601: @shivansh-source You need to rebase and squash
+- 💬 @jesperpedersen commented on pgmoneta/pgmoneta#1609: Rebased and merged. Thanks for your contribution ! 
+- 💬 @jesperpedersen commented on pgmoneta/pgmoneta#1645: Rebased and merged. Thanks for your contribution ! 
+- 💬 you commented on pgmoneta/pgmoneta#1601: @jesperpedersen done 
+- 💬 you commented on pgmoneta/pgmoneta#1609: @jesperpedersen  done  
+- 📝 PR opened pgmoneta/pgmoneta#1645: null
+- 📝 PR opened pgmoneta/pgmoneta#1647: null
+- 📝 issue labeled pgmoneta/pgmoneta#1644: Restoring to a restore point whose name contains a quote writes an invalid postgresql.auto.conf
+- 📝 issue labeled pgmoneta/pgmoneta#1646: Backup worker dereferences a NULL response when the server goes offline or pgmoneta shuts down while the backup starts
+- 📝 issue opened pgmoneta/pgmoneta#1644: Restoring to a restore point whose name contains a quote writes an invalid postgresql.auto.conf
+- 📝 issue opened pgmoneta/pgmoneta#1646: Backup worker dereferences a NULL response when the server goes offline or pgmoneta shuts down while the backup starts
+- 🔨 pushed 0 commit(s) to shivansh-source/pgmoneta
+
