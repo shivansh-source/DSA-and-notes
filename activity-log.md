@@ -344,3 +344,11 @@ Auto-generated daily digest of repo activity (days are IST, UTC+0530).
 ### 2026-11-20
 - no new activity in this repo; last change was `5f15a78 Change cron schedule to log daily activity at 10 PM IST`
 
+### 2026-11-21
+- no new activity in this repo; last change was `5f15a78 Change cron schedule to log daily activity at 10 PM IST`
+
+#### Elsewhere on GitHub
+- 💬 @jesperpedersen commented on pgmoneta/pgmoneta#1601: Rebased and merged. Thanks for your contribution ! 
+- 💬 @jesperpedersen commented on pgmoneta/pgmoneta#1647: Rebased and merged. Thanks for your contribution ! 
+- 💬 you commented on pgmoneta/pgmoneta#1644: this can be closed  
+
