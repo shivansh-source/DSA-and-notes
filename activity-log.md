@@ -355,3 +355,14 @@ Auto-generated daily digest of repo activity (days are IST, UTC+0530).
 ### 2026-11-22
 - no new activity in this repo; last change was `5f15a78 Change cron schedule to log daily activity at 10 PM IST`
 
+### 2026-11-23
+- no new activity in this repo; last change was `5f15a78 Change cron schedule to log daily activity at 10 PM IST`
+
+#### Elsewhere on GitHub
+- 💬 @github-actions[bot] commented on kubestellar/kubeflex#589: This issue has been automatically marked as stale because it has not had recent activity. It will be closed in 90 days if no further activit…
+- 💬 @github-actions[bot] commented on kubestellar/kubeflex#613: This issue has been automatically marked as stale because it has not had recent activity. It will be closed in 90 days if no further activit…
+- 📝 issue labeled openeverest/openeverest#3696: CLI : everestctl status reports a healthy v2 install as broken
+- 📝 issue labeled openeverest/openeverest#3697: CLI : install, upgrade and uninstall still target v1 and are exposed in v2
+- 📝 issue opened openeverest/openeverest#3696: CLI : everestctl status reports a healthy v2 install as broken
+- 📝 issue opened openeverest/openeverest#3697: CLI : install, upgrade and uninstall still target v1 and are exposed in v2
+
