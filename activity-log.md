@@ -366,3 +366,13 @@ Auto-generated daily digest of repo activity (days are IST, UTC+0530).
 - 📝 issue opened openeverest/openeverest#3696: CLI : everestctl status reports a healthy v2 install as broken
 - 📝 issue opened openeverest/openeverest#3697: CLI : install, upgrade and uninstall still target v1 and are exposed in v2
 
+### 2026-11-24
+- no new activity in this repo; last change was `5f15a78 Change cron schedule to log daily activity at 10 PM IST`
+
+#### Elsewhere on GitHub
+- 💬 @olucasandrade commented on openeverest/openeverest#3350: Another data point, found while running the provider on kind. The provider chart declares no minimum OpenEverest version: `Chart.yaml` of 0.…
+- 📝 issue labeled openeverest/openeverest#3712: docs(cli): everestctl settings rbac can --help still shows v1 resource names and paths
+- 📝 issue labeled openeverest/openeverest#3713: fix(cli): RBAC validation errors repeat "policy syntax error" twice
+- 📝 issue opened openeverest/openeverest#3712: docs(cli): everestctl settings rbac can --help still shows v1 resource names and paths
+- 📝 issue opened openeverest/openeverest#3713: fix(cli): RBAC validation errors repeat "policy syntax error" twice
+
