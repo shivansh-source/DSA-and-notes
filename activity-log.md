@@ -376,3 +376,9 @@ Auto-generated daily digest of repo activity (days are IST, UTC+0530).
 - 📝 issue opened openeverest/openeverest#3712: docs(cli): everestctl settings rbac can --help still shows v1 resource names and paths
 - 📝 issue opened openeverest/openeverest#3713: fix(cli): RBAC validation errors repeat "policy syntax error" twice
 
+### 2026-11-25
+- no new activity in this repo; last change was `5f15a78 Change cron schedule to log daily activity at 10 PM IST`
+
+#### Elsewhere on GitHub
+- 💬 @shahmeerabdul commented on pgmoneta/pgmoneta#1646: this looks fixed on main by afe1e27b, all the callers listed here now check for a NULL response before using it, so i think this can be clos…
+
