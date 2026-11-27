@@ -382,3 +382,13 @@ Auto-generated daily digest of repo activity (days are IST, UTC+0530).
 #### Elsewhere on GitHub
 - 💬 @shahmeerabdul commented on pgmoneta/pgmoneta#1646: this looks fixed on main by afe1e27b, all the callers listed here now check for a NULL response before using it, so i think this can be clos…
 
+### 2026-11-26
+- no new activity in this repo; last change was `5f15a78 Change cron schedule to log daily activity at 10 PM IST`
+
+#### Elsewhere on GitHub
+- 💬 @github-actions[bot] commented on openeverest/openeverest#3712: Assigned to @vikash2006-dot. Thanks for picking this up! A few things worth knowing: - Open your pull request with `Fixes #3712` in the desc…
+- 💬 @vikash2006-dot commented on openeverest/openeverest#3712: /assign
+- 💬 you commented on openeverest/provider-percona-postgresql#120: @Ubayed-Bin-Sufian  put a pr for this .  we can keep a single entry . Lets see what @spron-in says  
+- 💬 you left a review comment on openeverest/openeverest#3735: have a look at other file where we have do the same changes due to version bump .  
+- 🔍 you reviewed openeverest/openeverest#3735
+
