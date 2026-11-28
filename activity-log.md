@@ -392,3 +392,10 @@ Auto-generated daily digest of repo activity (days are IST, UTC+0530).
 - 💬 you left a review comment on openeverest/openeverest#3735: have a look at other file where we have do the same changes due to version bump .  
 - 🔍 you reviewed openeverest/openeverest#3735
 
+### 2026-11-27
+- no new activity in this repo; last change was `5f15a78 Change cron schedule to log daily activity at 10 PM IST`
+
+#### Elsewhere on GitHub
+- 💬 @Ubayed-Bin-Sufian commented on openeverest/provider-percona-postgresql#120: ## Current Implementation `definition/versions.yaml` is the source of truth for the provider's version catalog. It contains four duplicated …
+- 💬 @spron-in commented on openeverest/provider-percona-postgresql#120: yeah, we need to remove dups.  also i think we need to reduce the number of versions. For each major release keep the 3 latest. Like for 17:…
+
